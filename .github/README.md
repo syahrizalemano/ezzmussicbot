@@ -55,5 +55,6 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 
+<p align="center"><a href="https://github.com/syahrizalemano/ezzmussicbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
